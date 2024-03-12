@@ -1,5 +1,5 @@
 Inteligencji człowieka według mnie wymagają:
-- tłumaczenie tekstu,
-- klasyfikacja tekstu do kategorii tematycznych,
-- komponowanie muzyki,
-- kierowanie samochodem.
+- tłumaczenie tekstu (AI nie zawsze potrafi zrozumieć tekst prawidłowo, nie rozumie pewnych wyrażeń, za to człowiek już tak; interpretacja niektórych wyrażeń może być trudna dla AI; sam proces przetłumaczenia na inny język, użycia prawidłowych form tez może AI sprawiać problem (np. bardzo wiele odmian słów w języku polskim)),
+- klasyfikacja tekstu do kategorii tematycznych (AI może mieć problem z interpretacją, może mieć problem z wyznaczeniem głównej kategorii danego tekstu, może nie rozróżnić co jest wątkiem pobocznym, anegdotą, dywersją, a co "wątkiem głównym"),
+- komponowanie muzyki (kompozycja muzyki wymaga wielkiej kreatywności, poczucia rytmu, poniekąd "duszy" człowieka, bot może generować muzykę na podstawie innych elementów, muzyka będzie dla niego algorytmem, a nie wynikiem własnego gustu, kreatywnego pomysłu),
+- kierowanie samochodem (AI ma pewne usprawnienia i osiągnięcia w dziedzinie kierowania autem, ale nie powstało jeszcze (przynajmniej jest taki stan mojej wiedzy na dzień dzisiejszy) auto w pełni autonomiczne; kierowanie samochodem to proces bardzo złożony wymagający refleksu, podzielnej uwagi, obserwacja wielu bodźców jednocześnie, dlatego na ten moment to człowiek sprawdza się lepiej w tej dziedzinie).
