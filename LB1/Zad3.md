@@ -1,4 +1,6 @@
 AI potrafi imitować ludzkie umiejętności jak:
-- rozmowa towarzyska (dowodem jest chociażby filmik z wywiadem z robotem Sophia, wyprodukowanym przez firmę Hanson Robotics),
+- rozmowa towarzyska (dowodem jest chociażby filmik z wywiadem z robotem Sophia, wyprodukowanym przez firmę Hanson Robotics; jak i większość chatbotów imitujących zwykłą rozmowę),
 - odpowiadanie na pytania klientów w telefonicznej infolinii (coraz częściej AI jest używane jako automatyczna sekretarka w różnych placówkach np. medycznych, zwykle jednak ma ograniczony zakres swoich wypowiedzi i jest raczej mało responsywna),
-- odpowiadanie na pytania klientów w internetowej infolinii (możemy zaobserwować takie zjawisko na wielu stronach internetowych już od jakiegoś czasu).
+- odpowiadanie na pytania klientów w internetowej infolinii (możemy zaobserwować takie zjawisko na wielu stronach internetowych już od jakiegoś czasu; taki chatbot internetowy ma pewien zakres rozumianych poleceń/wiadomości, na resztę wypowiedzi, których nie rozpoznaje proponuje kontakt z asytentem - człowiekiem).
+
+Co do dyskusji politycznej oraz dyskusji naukowej - nie mam pewności czy AI może skutecznie imitować ten rodzaj komunikacji. Wymaga on posiadania odpowiedniej wiedzy (co nie powinno być problemem dzięki deeplearningowi), ale również własnego spojrzenia na sytuację, strategicznego myślenia, posiadania własnej opinii - co w przypadku AI już będzie ciężkie do wykonania. Ktoś musiałby daną maszynę zaprogramować na odpowiednie poglądy i spojrzenia, bez tego maszyna sama z siebie zostałaby "bezstronna", posiadając jedynie wiedzę na dany temat.
