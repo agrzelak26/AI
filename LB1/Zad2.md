@@ -7,4 +7,7 @@ W zakresie sztucznej inteligencji według mnie mieści się:
 - układanie rozkładu jazdy (deep learning i możliwość bardzo szybkiego przetwarzania ogromnej ilości danych, takie zadanie dla AI może być momentami nawet prostsze niż dla człowieka),
 - rozwiązywanie układów równań liniowych (układy równań liniowe to najłatwiejszy rodzaj równań liniowych, radzi sobie z nimi nawet chatGPT),
 - symboliczne obliczanie pochodnych (są odpowiednie AI zaprogramowane tak, aby radzić sobie z takimi zagadnieniami matematycznymi),
-- symboliczne całkowanie (odpowiedź jak wyżej).
+- symboliczne całkowanie (odpowiedź jak wyżej),
+- kierowanie samochodem (autonomiczne samochody są już w użyciu w pewnych miejscach na świecie, wiele aut jednak, nawet poruszających się po polskich drogach posiada funkcję autopilota).
+
+Kilka zagadnień umieściłam jednocześnie w zadaniu 1 oraz w zadaniu 2, uważam bowiem, że część zagadnień mieści się w zakresie sztucznej inteligencji, ale wciąż w niektórych przypadkach wymaga inteligencji człowieka.
