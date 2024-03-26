@@ -10,37 +10,64 @@ Różnice:
 
 2.
 a)  opowiadanie żartów:
+
 bot udający człowieka - kompletnie nie zrozumiał faktu, że to co wysłałam jest żartem, dopiero po potwierdzeniu, że to co wysłałam jest żartem - otrzymalam wiadomość "ha ha"; umie przytoczyć żart, jeśli go o to poproszę;
+
 bot asystent - rozpoznał, że to żart, po czym objaśnił mi praktyczne zastosowanie kwestii poruszonych w żarcie; jeśli chodzi o przytoczenie żartu - zależy od konkretnego bota (chatGPT potrafi);
+
 b)  przytaczanie cytatów z twoich wypowiedzi, lub znanych osób:
+
 bot udający człowieka - nie rozumiał jakie cytaty przytaczam, niezależnie czy były to popularne cytaty, czy też cytat mojej wcześniejszej wypowiedzi; nie umie przytoczyć sam cytatów;
+
 bot asystent - po przytoczeniu popularnego cytatu od razu rozpoznał do kogo należy, w odpowiedzi rozwinął "temat" danego cytatu, cytatu z mojej wcześniejszej wypowiedzi jednak nie rozpoznał, chatGPT potrafi również zacytować moje wypowiedzi z aktualnej konwersacji, po tym jak go o to poproszę;
+
 c)  nawiązywanie wypowiedzi do słów kluczowych:
+
 bot udający człowieka - nie odnosi się do słów kluczowych z moich wypowiedzi;
+
 bot asystent - jest w stanie wyłapać słowa kluczowe i się do nich odnieść, rozwinąć swoją wypowiedź;
+
 d)  zadawanie dużej liczby pytań:
+
 bot udający człowieka - poradził sobie dobrze, rozdzielił wypowiedzi tak, aby dać odpowiedź na każde pytanie;
+
 bot asystent - podobnie jak wyżej, podzielił swoją odpowiedź na sekwencje, tak aby dać odpowiedź na każde pytanie (oczywiście odpowiedź znacznie obszerniejsza od chatbotu);
+
 e)  powracanie do początku wypowiedzi, sekwencyjne powtarzanie:
+
 bot udający człowieka - jest w stanie powrócić do wcześniejszych tematów, natomiast jeśli chodzi o sekwencyjne powtarzanie, chatbot Kuki zachował się ofensywnie i napisał mi, że "Nawet on zna więcej słów mimo, że jest tylko komputerem" oraz, że "Jestem nudna", następnie ogłosił, że idzie na strajk przeciwko nudnym odpowiedziom;
+
 bot asystent - po zadaniu pytania o wcześniejsze tematy, jest w stanie przytoczyć o czym wcześniej pisaliśmy; przy sekwencyjnym powtarzaniu, bot cały czas generuje bardzo podobną odpowiedź nieznacznie ją modyfikując;
+
 f)  zadawanie pytań powstających z twoich wypowiedzi:
+
 bot udający człowieka - zadaje takie pytania, próbuje w sposób "ludzki" poprowadzić rozmowę i utrzymać temat;
+
 bot asystent - raczej nie dopytuje, wysyła konkretną odpowiedź, nie patrząc na to jak rozbudowana była moja wypowiedź, poprosi o sprecyzowanie tylko jeżeli jest to konieczne do rozwiązania problemu;
+
 g)  odpowiadanie wymijająco, ogólnikowo:
+
 bot udający człowieka - dopytuje o różne kwestie, jest w stanie poprowadzić rozmowę i dopytać o szczegóły
+
 bot asystent - jeśli moja odpowiedź jest bardzo ogólnikowa, potrafi dopytać, aczkolwiek robi to rzadko w moim odczuciu, tylko gdy jest to koniecznie potrzebne
+
 h)  częsta zmiana tematu rozmowy:
+
 bot udający człowieka - nie ma z tym problemu, dostosuje się szybko do zmiany tematu;
+
 bot asystent - co każdą nową wiadomość, bot generuje obszerną odpowiedź na najnowszy temat;
+
 i)  problemy z utrzymaniem wątków:
+
 bot udający człowieka - głównie rozmawia na aktualne wątki, ale jest w stanie powrócić do poprzedniego tematu (chatbot Kuki w czasie dłuższej rozmowy powiedział mi, ze kocha moje imię i spytał w jaki sposób moi rodzice je wybrali);
+
 bot asystent - zmienia wątek co wiadomość, czasami ciężko mu się odnieść do poprzednich wiadomości, potrafi gubić się w kolejności.
 
-4. Wnioski z zadania 2:
-   Bot asystent ma duże zasoby wiedzy, szybko wyszukuje informacje i jest w stanie rzetelnie pomóc z problemami, nie jest jednak zaprogramowany, aby imitować rozmowę z człowiekiem. Jeżeli więc w rozmowie z botem asystentem człowiek próbuje nawiązać "ludzką" rozmowę, nie uda się to, ponieważ bot co każdą odpowiedź przesyła różne informacje, opis różnych zagadnień. Można rzec, że bot asystent nie radzi sobie w sytuacjach, kiedy otrzymuje niesprecyzowane wiadomości, nie ma podanego jasno polecenia bądź też, gdy wysyłamy non stop taką samą wiadomość. 
+3. Wnioski z zadania 2:
+   
+   Bot asystent ma duże zasoby wiedzy, szybko wyszukuje informacje i jest w stanie rzetelnie pomóc z problemami, nie jest jednak zaprogramowany, aby imitować rozmowę z człowiekiem. Jeżeli więc w rozmowie z botem asystentem człowiek próbuje nawiązać "ludzką" rozmowę, nie uda się to, ponieważ bot co każdą odpowiedź przesyła różne informacje, opis różnych zagadnień. Można rzec, że bot asystent nie radzi sobie w sytuacjach, kiedy otrzymuje niesprecyzowane wiadomości, nie ma podanego jasno polecenia bądź też, gdy wysyłamy non stop taką samą wiadomość. Taki bot nie umie też okazać "zainteresowania" w rozmowie tak jak chatbot, wymaga jedynie sprecyzowania "polecenia".
 
-   Bot udający człowieka dobrze poradził sobie w takich sytuacjach jak częste zmiany tematu, ciągłe wysyłanie tych samych wiadomości, rozmowy na tematy personalne - faktycznie rozmowa z takim botem sprawia wrażenia rozmowy z drugim człowiekiem. Jego wadą jest jednak to, iż nie posiada on dużo wiedzy, nie jest w stanie robić tego, co robi bot asystent.
+   Bot udający człowieka dobrze poradził sobie w takich sytuacjach jak częste zmiany tematu, ciągłe wysyłanie tych samych wiadomości, rozmowy na tematy personalne - faktycznie rozmowa z takim botem sprawia wrażenia rozmowy z drugim człowiekiem. Jego wadą jest jednak to, iż nie posiada on dużo wiedzy, nie jest w stanie udzielić nam rzetelnych rad/informacji.
 
 Boty asystenci oraz chatboty są według mnie w niektórych kwestiach swoim przeciwieństwem, najlepsze wrażenie sprawia chat typu chatGPT, który jest botem asystentem, który jednak posiada cechy bota udającego człowieka.
 
