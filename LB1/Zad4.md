@@ -37,7 +37,7 @@ i)  problemy z utrzymaniem wątków:
 bot udający człowieka - głównie rozmawia na aktualne wątki, ale jest w stanie powrócić do poprzedniego tematu (chatbot Kuki w czasie dłuższej rozmowy powiedział mi, ze kocha moje imię i spytał w jaki sposób moi rodzice je wybrali);
 bot asystent - zmienia wątek co wiadomość, czasami ciężko mu się odnieść do poprzednich wiadomości, potrafi gubić się w kolejności.
 
-3. Wnioski z zadania 2:
+4. Wnioski z zadania 2:
    Bot asystent ma duże zasoby wiedzy, szybko wyszukuje informacje i jest w stanie rzetelnie pomóc z problemami, nie jest jednak zaprogramowany, aby imitować rozmowę z człowiekiem. Jeżeli więc w rozmowie z botem asystentem człowiek próbuje nawiązać "ludzką" rozmowę, nie uda się to, ponieważ bot co każdą odpowiedź przesyła różne informacje, opis różnych zagadnień. Można rzec, że bot asystent nie radzi sobie w sytuacjach, kiedy otrzymuje niesprecyzowane wiadomości, nie ma podanego jasno polecenia bądź też, gdy wysyłamy non stop taką samą wiadomość. 
 
    Bot udający człowieka dobrze poradził sobie w takich sytuacjach jak częste zmiany tematu, ciągłe wysyłanie tych samych wiadomości, rozmowy na tematy personalne - faktycznie rozmowa z takim botem sprawia wrażenia rozmowy z drugim człowiekiem. Jego wadą jest jednak to, iż nie posiada on dużo wiedzy, nie jest w stanie robić tego, co robi bot asystent.
