@@ -1,5 +1,5 @@
-rodzic(maria, anna).
-rodzic(franek, anna).
+rodzic(maria, anna). 
+rodzic(franek, anna). 
 rodzic(franek, jozef).
 rodzic(alicja, marian).
 rodzic(alicja, eleonora).
